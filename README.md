@@ -20,9 +20,9 @@ function NumeroAleatorio(Project) {
 
 <div align="center">
 
-<img src="Projeto/img/readme1" alt="Número Aleatório" width="400"/>
-<img src="Projeto/img/readme2" alt="Número Aleatório" width="400"/>
-<img src="Projeto/img/readme3" alt="Número Aleatório" width="600"/>
+<img src="Projeto/img/readme1.png" alt="Número Aleatório" width="400"/>
+<img src="Projeto/img/readme2.png" alt="Número Aleatório" width="400"/>
+<img src="Projeto/img/readme3.png" alt="Número Aleatório" width="600"/>
 
 </div>
 
